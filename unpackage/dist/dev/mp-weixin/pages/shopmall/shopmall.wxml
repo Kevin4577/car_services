@@ -1,0 +1,1 @@
+<view><web-view webview-styles="{{webviewStyles}}" src="{{url}}"><view style="padding:20rpx;">暂无信息！</view></web-view></view>

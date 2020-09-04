@@ -1,0 +1,6 @@
+
+.list {
+	text-indent: 30rpx;
+	margin-top: 20rpx;
+}
+

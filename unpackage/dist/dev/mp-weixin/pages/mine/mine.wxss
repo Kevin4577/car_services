@@ -1,0 +1,137 @@
+
+.main {
+	width: 100vw;
+	height: 120vh;
+	background: #eee;
+}
+.bgm {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 400rpx;
+	padding: 0 20rpx;
+	box-sizing: border-box;
+}
+.bottom {
+	margin-top: 100rpx;
+	width: 100%;
+	height: 150rpx;
+	border-radius: 20rpx;
+	background: #fff;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	padding: 0 40rpx;
+	box-sizing: border-box;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.looplist {
+	margin-top: 80rpx;
+	padding: 0 20rpx;
+}
+.listchoose {
+	height: 150rpx;
+	background: #FFFFFF;
+	border-radius: 20rpx;
+	padding: 0 120rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	box-sizing: border-box;
+}
+.listchoose1 {
+	margin-top: 20rpx;
+	background: #fff;
+	border-radius: 20rpx;
+	padding: 0 20rpx;
+}
+.dingdan {
+	padding: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	box-sizing: border-box;
+}
+.iconlist {
+	margin-top: 20rpx;
+	border-radius: 20rpx;
+	background: #fff;
+	padding: 20rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	box-sizing: border-box;
+}
+.active1 {
+	width: 48rpx;
+	height: 44rpx;
+}
+.active2 {
+	width: 44rpx;
+	height: 44rpx;
+}
+.active3 {
+	width: 38rpx;
+	height: 44rpx;
+}
+.sty1 {
+	width: 43rpx;
+	height: 44rpx;
+}
+.sty2 {
+	width: 44rpx;
+	height: 40rpx;
+}
+.sty3 {
+	width: 43rpx;
+	height: 52rpx;
+}
+.sty4 {
+	width: 53rpx;
+	height: 52rpx;
+}
+.sty5 {
+	width: 40rpx;
+	height: 47rpx;
+}
+.sty6 {
+	width: 44rpx;
+	height: 47rpx;
+}
+.sty7 {
+	width: 45rpx;
+	height: 47rpx;
+}
+.sty8 {
+	width: 46rpx;
+	height: 47rpx;
+}
+button::after {
+	border: none;
+}
+

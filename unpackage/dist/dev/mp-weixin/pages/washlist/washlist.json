@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "洗车列表",
+  "usingComponents": {
+    "screen": "/components/uni-screen/uni-screen"
+  }
+}

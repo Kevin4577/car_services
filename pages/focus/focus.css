@@ -1,0 +1,180 @@
+
+.content{
+		width: 100vw;
+		background: #eee;
+		
+	}
+	.banner{
+		width: 100%;
+		height: 400upx;
+		position: relative;
+	}
+	.img{
+		width: 750upx;
+		height: 398upx;
+	}
+	.toptips{
+		position: absolute;
+		width: 100%;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		box-sizing: border-box;
+		
+		
+		top: 10upx;
+		padding: 0 10upx;
+	}
+	.choose{
+		width: 100upx;
+		text-align: center;
+		line-height: 50upx;
+		height: 50upx;
+		font-size: 28upx;
+		color: #fff;
+		display: flex;
+		align-items: center;
+		margin-left: 20upx;
+	}
+	.choose image{
+		width: 12upx;
+		height: 6upx;
+	}
+	.serch{
+		width: 436upx;
+		height: 42upx;
+		background: #fff;
+		border-radius: 100upx;
+	    display: flex;
+		align-items: center;
+	}
+	.serch input{
+		line-height: 42upx;
+		font-size: 24upx;
+		text-indent: 20upx;
+	}
+	.serch image{
+		width: 24upx;
+		height: 22upx;
+		margin-left: 40upx;
+	}
+	.crema{
+		display: flex;
+		margin-right: 20upx;
+	}
+	.crema image{
+		width: 33upx;
+		height: 33upx;
+	}
+	.oneseven{
+		display: flex;
+		align-items: center;
+	}
+	.seven{
+		width: 110upx;
+		height: 20upx;
+	}
+	.rectangle{
+		margin-left: 10upx;
+		width: 2upx;
+		height: 18upx;
+	}
+	.List{
+		display: flex;
+		justify-content: space-between;
+		box-sizing: border-box;
+		padding:0upx 20upx ;
+		width: 100%;
+	}
+	.item-img{
+		width: 228upx;
+		height: 138upx;
+	}
+	.List2{
+		display: flex;
+		justify-content: space-between;
+		box-sizing: border-box;
+		padding:20upx 30upx;
+		width: 100%;
+	}
+	.sec-banner{
+		padding: 20upx 10upx 0 10upx;
+	}
+	.List3{
+		display: flex;
+		justify-content: space-between;
+		box-sizing: border-box;
+		padding:10upx 20upx;
+		width: 100%;
+	}
+	.third-cp{
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		box-sizing: border-box;
+		padding:10upx 20upx ;
+	}
+	.chanpin{
+		display: flex;
+		align-items: center;
+		padding:  10upx;
+	}
+	.chanpin image{
+		width: 30upx;
+		height: 25upx;
+	}
+	.more{
+		margin-left: 10upx;
+		width: 10upx;
+		height: 20upx;
+	}
+	.fivelist{
+		padding: 10upx 20upx;
+		display: flex;
+		justify-content: space-between;
+		box-sizing: border-box;
+		width: 100%;
+	}
+	.fourlist{
+		flex: 1;
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		flex-direction: column;
+		box-sizing: border-box;
+		height: 300upx;
+		margin-left: 10upx;
+		}
+	.fourlist image{
+		width: 224upx;
+		height: 143upx;
+	}
+	.list5{
+		display: flex;
+		justify-content: space-between;
+		flex-wrap: wrap;
+		padding: 20upx;
+	}
+	.list5 image{
+		width: 343upx;
+		height: 120upx;
+		margin-bottom: 5upx;
+	}
+	.listtext{
+		position: absolute;
+		z-index: 99;
+		line-height: 130upx;
+		width: 350upx;
+		top: 0;
+		font-size: 36upx;
+		color: #fff;
+	}
+	.store{
+		display: flex;
+		padding: 10upx 20upx;
+		box-sizing: border-box;
+	}
+	.storelist{
+		padding:0 20upx;
+		font-size: 28upx;
+	}

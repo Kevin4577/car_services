@@ -1,0 +1,63 @@
+.content{
+	background: #eee;
+	width: 100vw;
+	height: 100vh;
+}
+   .map{
+	   position: absolute;
+	   width: 38rpx;
+	   height: 38rpx;
+	   right: 20rpx;
+	   top: 15rpx;
+   }
+   .choosetop{
+	   display: -webkit-box;
+	   display: -webkit-flex;
+	   display: flex;
+	   -webkit-box-pack: justify;
+	   -webkit-justify-content: space-between;
+	           justify-content: space-between;
+	   padding: 20rpx;
+	   box-sizing: border-box;
+	   background: #fff;
+	   margin-top: 15rpx;
+   }
+   .store{
+   	display: -webkit-box;
+   	display: -webkit-flex;
+   	display: flex;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+   	padding:  20rpx;
+   	box-sizing: border-box;
+	background: #fff;
+   }
+   .storelist{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+   	margin-left: 15rpx;
+   	font-size: 28rpx;
+   }
+
+.chooseactive {
+	background: #FFFFFF !important;
+	border: 1rpx solid #F56B2D;
+	color: #F56B2D !important;
+}
+.borderactive {
+	border-left: 1px solid #eee;
+	border-right: 1px solid #eee;
+}
+.leftactive{
+	margin-left: 10rpx;
+}
+

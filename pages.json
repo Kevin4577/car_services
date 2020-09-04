@@ -1,0 +1,533 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages   
+	    {
+	    	"path": "pages/focus/focus",
+	    	"style": {
+	    		"navigationBarTitleText": "首页",
+				"enablePullDownRefresh":true
+	    	}
+	    }, 
+		{
+			"path": "pages/answerdetail/answerdetail",
+			"style": {
+				"navigationBarTitleText": "解答详情",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/msHdconfirmation/msHdconfirmation",
+			"style": {
+				"navigationBarTitleText": "确认下单",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/flashsale/flashsale",
+			"style": {
+				"navigationBarTitleText": "限时抢购",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/ordersZ/Demock"
+		},
+		{
+			"path": "pages/ordersZ/ordersZ"
+		},
+		{
+			"path": "pages/problemdetails/problemdetails",
+			"style": {
+				"navigationBarTitleText": "问题详情",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/answers/answers",
+			"style": {
+				"navigationBarTitleText": "专家解答",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/activeH5/activeH5",
+			"style": {
+				"navigationBarTitleText": ""
+			}
+		},
+		{
+			"path": "pages/putques/putques",
+			"style": {
+				"navigationBarTitleText": "立即提问"
+			}
+		},
+		{
+			"path": "pages/transour/transour",
+			"style": {
+				"navigationBarTitleText": "个人交易"
+			}
+		},
+		{
+			"path": "pages/washlist/washlist",
+			"style": {
+				"navigationBarTitleText": "洗车列表"
+			}
+		},
+		{
+			"path": "pages/orderdetail/orderdetail",
+			"style": {
+				"navigationBarTitleText": "查看订单详情"
+			}
+		},
+		{
+			"path": "pages/Fillnumber/Fillnumber",
+			"style": {
+				"navigationBarTitleText": "填写车架号"
+			}
+		},
+		{
+			"path": "pages/preferential/preferential",
+			"style": {
+				"navigationBarTitleText": "",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/customer/customer",
+			"style": {
+				"navigationBarTitleText": "用户协议"
+			}
+		},
+		{
+			"path": "pages/aboutus/aboutus",
+			"style": {
+				"navigationBarTitleText": "关于1788"
+			}
+		},
+		{
+			"path": "pages/msmaintain/msmaintain",
+			"style": {
+				"navigationBarTitleText": "保养",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/maintenance/maintenance",
+			"style": {
+				"navigationBarTitleText": "保养手册"
+			}
+		},
+		{
+			"path": "pages/privacy/privacy",
+			"style": {
+				"navigationBarTitleText": "隐私协议"
+			}
+		},
+		{
+			"path": "pages/service/service",
+			"style": {
+				"navigationBarTitleText": "保障服务"
+			}
+		},
+		{
+			"path": "pages/replay/replay",
+			"style": {
+				"navigationBarTitleText": "评论",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		}, 
+		{
+			"path": "pages/login/H5login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/chooseCar/chooseCar",
+			"style": {
+				"navigationBarTitleText": "选择排量"
+			}
+		},
+		{
+			"path": "pages/release/release",
+			"style": {
+				"navigationBarTitleText": "发布朋友圈",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/recommend/recommend",
+			"style": {
+				"navigationBarTitleText": "推荐产品",
+				"enablePullDownRefresh":true
+			}
+		},
+	    {
+	    	"path": "pages/replacedetail/replacedetail",
+	    	"style": {
+	    		"navigationBarTitleText": "更换产品详情",
+				"enablePullDownRefresh":true
+	    	}
+	    },
+	    {
+	    	"path": "pages/assess/assess",
+	    	"style": {
+	    		"navigationBarTitleText": "评价页面"
+	    	}
+	    },
+	    {
+	    	"path": "pages/transaction/transaction",
+	    	"style": {
+	    		"navigationBarTitleText": "交易详情",
+				"enablePullDownRefresh":true
+	    	}
+	    },
+		// {
+		// 	"path": "pages/choosecity/choosecity",
+		// 	"style": {
+		// 		"navigationBarTitleText": "选择城市"
+		// 	}
+		// },
+	    {
+	    	"path": "pages/record/record",
+	    	"style": {
+	    		"navigationBarTitleText": "保养记录"
+	    	}
+	    },
+		{
+			"path": "pages/counterfeit/counterfeit",
+			"style": {
+				"navigationBarTitleText": "防伪查询结果"
+			}
+		},
+		{
+			"path": "pages/searchlist/searchlist",
+			"style": {
+				"navigationBarTitleText": "搜索列表"
+			}
+		},
+		{
+			"path": "pages/partssearch/partssearch",
+			"style": {
+				"navigationBarTitleText": "配件搜索"
+			}
+		},
+		{
+			"path": "pages/maintain/maintain",
+			"style": {
+				"navigationBarTitleText": "保养",
+				"enablePullDownRefresh":true
+			}
+		},
+		// {
+		// 	"path": "pages/roadrescue/roadrescue",
+		// 	"permission": {
+		// 		"scope.userLocation": {
+		// 			"desc": "你的位置信息将用于小程序位置接口的效果展示"
+		// 		}
+		// 	},
+		// 	"style": {
+		// 		"navigationBarTitleText": "道路救援"
+		// 	}
+		// },
+		{
+			"path": "pages/choosestore/choosestore",
+			"style": {
+				"navigationBarTitleText": "选择门店",
+				"enablePullDownRefresh":true
+			}
+		},
+		// {
+		// 	"path": "pages/oilprice/oilprice",
+		// 	"style": {
+		// 		"navigationBarTitleText": "今日油价"
+		// 	}
+		// },
+		{
+			"path": "pages/feedback/feedback",
+			"style": {
+				"navigationBarTitleText": "意见反馈"
+			}
+		},
+		{
+			"path": "pages/onwerdata/onwerdata",
+			"style": {
+				"navigationBarTitleText": "车主资料"
+			}
+		},
+		{
+			"path": "pages/system/system",
+			"style": {
+				"navigationBarTitleText": "系统消息"
+			}
+		},
+		{
+			"path": "pages/productdetails/productdetails",
+			"style": {
+				"navigationBarTitleText": "产品详情"
+			}
+		},
+		{
+			"path": "pages/storedetails/storedetails",
+			"style": {
+				"navigationBarTitleText": "门店详情"
+			}
+		},
+		// {
+		// 	"path": "pages/rescue/rescue",
+		// 	"style": {
+		// 		"navigationBarTitleText": "历史救援"
+		// 	}
+		// },
+		// {
+		// 	"path": "pages/registration/registration",
+		// 	"style": {
+		// 		"navigationBarTitleText": "活动报名"
+		// 	}
+		// },
+		// {
+		// 	"path": "pages/activitydetails/activitydetails",
+		// 	"style": {
+		// 		"navigationBarTitleText": "活动详情"
+		// 	}
+		// },
+		// {
+		// 	"path": "pages/driving/driving",
+		// 	"style": {
+		// 		"navigationBarTitleText": "拼自驾游"
+		// 	}
+		// },
+		{
+			"path": "pages/Informationdetails/Informationdetails",
+			"style": {
+				"navigationBarTitleText": "资讯详情",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/information/information",
+			"style": {
+				"navigationBarTitleText": "资讯",
+				"enablePullDownRefresh":true
+			}
+		},
+		
+		{
+			"path": "pages/cancel/cancel",
+			"style": {
+				"navigationBarTitleText": "订单取消"
+			}
+		},
+		{
+			"path": "pages/success/success",
+			"style": {
+				"navigationBarTitleText": "支付成功"
+			}
+		},
+		{
+			"path": "pages/payment/payment",
+			"style": {
+				"navigationBarTitleText": "待付款"
+			}
+		},
+		{
+			"path": "pages/confirmation/confirmation",
+			"style": {
+				"navigationBarTitleText": "确认订单"
+			}
+		},
+		{
+			"path": "pages/replace/replace",
+			"style": {
+				"navigationBarTitleText": "可更换产品"
+			}
+		},
+		{
+			"path": "pages/shopmall/shopmall",
+			"style": {
+				"navigationBarTitleText": "积分商城"
+			}
+		},
+		// {
+		// 	"path": "pages/shopcar/shopcar",
+		// 	"style": {
+		// 		"navigationBarTitleText": "购物车"
+		// 	}
+		// },
+		{
+			"path": "pages/favorites/favorites",
+			"style": {
+				"navigationBarTitleText": "收藏夹"
+			}
+		},
+		{
+			"path": "pages/center/center",
+			"style": {
+				"navigationBarTitleText": "评价中心"
+			}
+		},
+		{
+			"path": "pages/carlist/carlist",
+			"style": {
+				"navigationBarTitleText": "添加车型"
+			}
+		},
+		{
+			"path": "pages/recommended/recommended",
+			"style": {
+				"navigationBarTitleText": "分享好友"
+			}
+		},
+		{
+			"path": "pages/order/order",
+			"style": {
+				"navigationBarTitleText": "我的订单",
+				"enablePullDownRefresh":true
+			}
+		},
+		// {
+		// 	"path": "pages/coupon/coupon",
+		// 	"style": {
+		// 		"navigationBarTitleText": "优惠券"
+		// 	}
+		// },
+		// {
+		// 	"path": "pages/integral/integral",
+		// 	"style": {
+		// 		"navigationBarTitleText": "我的积分"
+		// 	}
+		// },
+		{
+			"path": "pages/garage/garage",
+			"style": {
+				"navigationBarTitleText": "我的车库"
+			}
+		},
+		{
+			"path": "pages/mycar/mycar",
+			"style": {
+				"navigationBarTitleText": "我的爱车"
+			}
+		},
+		{
+			"path": "pages/personal/personal",
+			"style": {
+				"navigationBarTitleText": "个人信息"
+			}
+		},
+		{
+			"path": "pages/setup/setup",
+			"style": {
+				"navigationBarTitleText": "设置"
+			}
+		},
+		{
+			"path": "pages/Interactive/Interactive",
+			"style": {
+				"navigationBarTitleText": "互动消息"
+			}
+		},
+		{
+			"path": "pages/message/message",
+			"style": {
+				"navigationBarTitleText": "消息"
+			}
+		},
+		{
+			"path": "pages/store/store",
+			"style": {
+				"navigationBarTitleText": "门店",
+				"enablePullDownRefresh":true
+			}
+		},
+		// {
+		// 	"path": "pages/moments/moment",
+		// 	"style": {
+		// 		"navigationBarTitleText": "我的车友圈",
+		// 		"enablePullDownRefresh":true
+		// 	}
+		// },
+		// {
+		// 	"path": "pages/find/find",
+		// 	"style": {
+		// 		"navigationBarTitleText": "发现"
+		// 	}
+		// },
+		{
+			"path": "pages/mine/mine",
+			"style": {
+				"navigationBarTitleText": "我的",
+				"enablePullDownRefresh":true
+			}
+		}
+
+	    ,{
+            "path" : "pages/flashSale_qs/flashSale_qs",
+            "style" : {
+				"navigationBarTitleText": "限时抢购"
+			}
+        }
+        ,{
+            "path" : "pages/bargain_qs/bargain_qs",
+            "style" : {
+				"navigationBarTitleText": "助力砍价"
+			}
+        }
+        ,{
+            "path" : "pages/joinGroup_qs/joinGroup_qs",
+            "style" : {
+				"navigationBarTitleText": "一起拼团"
+			}
+        }
+    ],
+
+	"tabBar": {
+		"color": "#8a8a8a",
+		"selectedColor": "#F66A2E",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/focus/focus",
+				"text": "首页",
+				"iconPath": "static/focus.png",
+				"selectedIconPath": "static/focus-1.png"
+			},
+			{
+				"pagePath": "pages/store/store",
+				"text": "门店",
+				"iconPath": "static/store.png",
+				"selectedIconPath": "static/store-1.png"
+			},
+			// {
+			// 	"pagePath": "pages/moments/moment",
+			// 	"text": "车友圈",
+			// 	"iconPath": "static/moment.png",
+			// 	"selectedIconPath": "static/moment-1.png"
+			// },
+			// {
+			// 	"pagePath": "pages/find/find",
+			// 	"text": "发现",
+			// 	"iconPath": "static/find.png",
+			// 	"selectedIconPath": "static/find-1.png"
+			// },
+			{
+				"pagePath": "pages/mine/mine",
+				"text": "我的",
+				"iconPath": "static/mine.png",
+				"selectedIconPath": "static/mine-1.png"
+			}
+
+		]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

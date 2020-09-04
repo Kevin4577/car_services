@@ -1,0 +1,10 @@
+
+.getcode {
+	background: #F36C2C !important;
+	color: #FFFFFF !important;
+}
+.loginactive {
+	background: #eee !important;
+	color: #999 !important;
+}
+

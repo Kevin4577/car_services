@@ -1,0 +1,23 @@
+
+.logolist {
+	background: #fff;
+	border-radius: 10rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 20rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.active {
+	background: #F56B2D !important;
+	color: #FFFFFF !important;
+}
+.addpadd {
+	padding-bottom: 160rpx !important;
+}
+.smargin {
+	margin-top: 20rpx;
+}
+

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "添加车型",
+  "usingComponents": {
+    "uni-drawer": "/components/uni-drawer/uni-drawer"
+  }
+}

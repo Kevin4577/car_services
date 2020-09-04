@@ -1,0 +1,29 @@
+
+.content{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	box-sizing: border-box;
+	padding: 20rpx;
+	background: #fff;
+	height: 70vh;
+}
+.jianbian{
+	margin-top: 140rpx;
+	width: 701rpx;
+	height: 100rpx;
+	background-image: -webkit-linear-gradient(left, #FF6B52 , #FF9455);
+	background-image: linear-gradient(to right, #FF6B52 , #FF9455);
+	border-radius: 100rpx;
+	text-align: center;
+	line-height: 100rpx;
+	color: #fff;
+}
+

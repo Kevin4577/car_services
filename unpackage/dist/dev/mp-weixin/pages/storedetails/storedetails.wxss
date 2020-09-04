@@ -1,0 +1,27 @@
+
+.active {
+	color: #F56B2D;
+}
+.rightborder {
+	border-left: 1px solid #ccc
+}
+.coloractive {
+	color: #F56B2D !important;
+}
+.leftactive {
+	margin-left: 10rpx;
+}
+.showpad {
+	padding-bottom: 0rpx !important;
+}
+.tarbar {
+	background: #fff !important;
+	border-bottom: 1px solid #eee;
+}
+.comactive {
+	color: #F66C2D !important;
+}
+button::after {
+	border: none;
+}
+

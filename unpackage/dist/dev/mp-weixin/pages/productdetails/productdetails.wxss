@@ -1,0 +1,27 @@
+
+.active1 {
+	width: 32rpx;
+	height: 25rpx;
+}
+.active2 {
+	width: 32rpx;
+	height: 32rpx;
+}
+.active3 {
+	width: 32rpx;
+	height: 30rpx;
+}
+.active4 {
+	width: 32rpx;
+	height: 32rpx;
+}
+.wordactive {
+	color: #F56B2D
+}
+.borderactive{
+	border-left: 1px solid #eee !important;
+}
+.comactive {
+	color: #F66C2D !important;
+}
+

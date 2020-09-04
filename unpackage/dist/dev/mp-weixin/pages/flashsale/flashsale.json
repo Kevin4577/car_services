@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "限时抢购",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-countdown": "/components/linnian-CountDown/uni-countdown"
+  }
+}

@@ -1,0 +1,31 @@
+
+.active {
+	color: #F56B2D;
+}
+.itemactive {
+	background: #F66C2D !important;
+	color: #FFFFFF !important;
+}
+.borders {
+	border-right: 1px solid #eee;
+}
+.showactive {
+	-webkit-transform: translateX(0);
+	        transform: translateX(0);
+	-webkit-transition: all 1s ease;
+	transition: all 1s ease
+}
+.hideactive {
+	-webkit-transform: translateX(750rpx);
+	        transform: translateX(750rpx);
+	-webkit-transition: all 1s ease;
+	transition: all 1s ease
+}
+.tranlata {
+	-webkit-transform: rotate(180deg);
+	        transform: rotate(180deg)
+}
+.right {
+	border: none;
+}
+
